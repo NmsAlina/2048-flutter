@@ -1,0 +1,4 @@
+#Wed Apr 17 19:09:05 EEST 2024
+base.0=/home/student/projects/flutter/twenty-forty-eight/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
